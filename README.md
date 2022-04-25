@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 --> In the code right here there are some references to personal path and documents in my pc so don't copy paste or it won't work!
 
---> I can give you a compiled version if needed for professors only
+--> I can give a compiled version if needed for professors only
 
 --> Please don't steal this code this is an intellectual property protected by Hitachi energy who's a multinational compagny
 
