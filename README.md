@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 --> I can give a compiled version if needed for professors only
 
---> Please don't steal this code this is an intellectual property protected by Hitachi energy who's a multinational compagny
+--> Please don't steal this code this is an intellectual property protected by Hitachi energy who's a multinational company
 
 --> Stealing this code can expose yourself to severe sanctions in the martial court
