@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Rose are red, violet are blue and you are currently readind this shit
 
 --> In the code right here there are some references to personal path and documents in my pc so don't copy paste or it won't work!
---> I can give you a compiled version if needed
+
+--> I can give you a compiled version if needed for professors only
+
 --> Please don't steal this code this is an intellectual property protected by Hitachi energy who's a multinational compagny
+
 --> Stealing this code can expose yourself to severe sanctions in the martial court
