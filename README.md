@@ -2,8 +2,11 @@
 
 
 🔭 I'm currently working on Clearings Measurement for Hitachi Energy
+
 💬 Ask me about Arduino to python and App making
+
 📫 How to reach me: filipperusso2000@gmail.com
+
 ⚡ Fun fact: Rose are red, violet are blue, and you are currently reading this shit
 
 --> In the code right here, there are some references to personal path and documents on my pc so, don't copy-paste, or it won't work!
