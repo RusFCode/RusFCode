@@ -7,7 +7,7 @@
 
 📫 How to reach me: filipperusso2000@gmail.com
 
-⚡ Fun fact: Rose are red, violet are blue, and you are currently reading this shit
+⚡ Fun fact: Rose are red, violet are blue, and you are currently reading this
 
 --> In the code right here, there are some references to personal path and documents on my pc so, don't copy-paste, or it won't work!
 
